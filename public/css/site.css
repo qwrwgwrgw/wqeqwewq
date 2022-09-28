@@ -1,0 +1,29 @@
+body {
+    font-family: 'Playfair Display', serif!important;
+}
+
+nav {
+    background-color: #176db3!important;
+}
+
+.nav li a {
+    color: #fff!important;
+}
+
+.active a {
+    background-color: #12578f!important;
+}
+
+.navbar-brand {
+    color: #fff!important;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif!important;
+    color: #0c3252;
+}
+
+article p {
+    font-family: 'Playfair Display', serif!important;
+    color: #0e4069;
+}
